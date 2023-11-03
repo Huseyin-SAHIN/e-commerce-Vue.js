@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "Kırmızı Elbise",
+        "price": "100.00TL",
+        "image": "https://st3.depositphotos.com/3878845/36861/v/450/depositphotos_368613088-stock-illustration-dress-doodle-icon-vector-color.jpg",
+        "description": "Kırmızı Elbise",
+        "category": "elbise"
+    },
+    {
+        "id": "2",
+        "name": "Siyah Elbise",
+        "price": "200.00TL",
+        "image": "https://i.pinimg.com/736x/24/b2/0e/24b20e9013f9959720f682a4009e6c81.jpg",
+        "description": "Siyah Elbise",
+        "category": "elbise"
+    },
+    {
+        "id": "3",
+        "name": "Beyaz Elbise",
+        "price": "300.00TL",
+        "image": "https://cdn.beymen.com/productimages/ibf5jhme.x5c_IMG_01_2110085907151.jpg",
+        "description": "Beyaz Elbise",
+        "category": "elbise"
+    },
+    {
+        "id": "4",
+        "name": "Siyah Pantolon",
+        "price": "400.00TL",
+        "image": "https://www.zafoni.com/i/l/007/0070317_erkek-slim-fit-likrali-denim-kot-pantolon-jean-siyah.jpeg",
+        "description": "Siyah Pantolon",
+        "category": "pantolon"
+    },
+    {
+        "id": "5",
+        "name": "Beyaz Pantolon",
+        "price": "500.00TL",
+        "image": "https://cdn.pazarium.com.tr/duz-boyfriend-beyaz-pantolon-yeni-tesettur-giyim-aref-322028-73-B.jpg",
+        "description": "Beyaz Pantolon",
+        "category": "pantolon"
+    },
+    {
+        "id": "6",
+        "name": "Kırmızı Pantolon",
+        "price": "600.00TL",
+        "image": "https://cdn.pazarium.com.tr/dar-paca-beli-lastikli-kirmizi-pantolon-pantolon-nefise-326992-74-B.jpg",
+        "description": "Kırmızı Pantolon",
+        "category": "pantolon"
+    }
+]
