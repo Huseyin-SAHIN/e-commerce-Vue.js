@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <default-bar />
+    <default-bar class="navbar" />
 
     <default-view />
   </v-app>
